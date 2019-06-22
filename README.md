@@ -6,5 +6,8 @@ A standard interface for managing, editing, and sending an email message within 
 
 Developed in Swift 4.2 iOS12
 
-Email me with any questions, concerns, or suggestions:
-Eric@EmpireAppDesignz.com
+<a href="https://youtu.be/IeNCbP5FJB4">Watch YouTube Video</a>
+
+<img src="https://github.com/EmpireAppDesignz/MailComposer/blob/master/mqDefault-2.jpg"/>
+
+<a href="http://www.empireappdesignz.com">Check out my other iOS Apps available in iTunes</a>
